@@ -1,7 +1,6 @@
 Hi.
 
 I'm `bittere`.
-You can call me 🍋.
 
 I like to design and code.
 
