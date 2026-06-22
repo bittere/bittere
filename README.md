@@ -9,6 +9,7 @@ I like to design and code.
 I'm currently thinking about:
 - A novel approach for fine-tuning LLMs to fix the montonous, robotic voice prevalent in most models
 - Using function calling with Gemma to build interactive UI-based LLM experiences
+- An experiment where agents run an entire organization of other agents with no human intervention across all phases, from idea to deployment
 
 <br />
 
