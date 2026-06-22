@@ -4,16 +4,33 @@ I'm `bittere`.
 
 I like to design and code.
 
+<br />
+
 I'm currently thinking about:
+- A novel approach for fine-tuning LLMs to fix the montonous, robotic voice prevalent in most models
 - Using function calling with Gemma to build interactive UI-based LLM experiences
-- Creating an easy-to-deploy social media app using Appwrite
-- Designing a textual style-transfer app for small documents using Gemini
+
+<br />
 
 I'm currently working on:
-- A smart, automatic image compressor
+- A semantic CSS library inspired by [coss ui](https://coss.com/ui/docs)
+
+<br />
+
+A few projects I've built to completion:
+- [A free, local, fast image compressor & converter](https://github.com/bittere/hat)
+- A transactions app for a virtual currency
+
+<br />
 
 Some of my (failed) ambitious projects so far have been:
 - Building a complete Spotify clone with Youtube for media
-- A transactions app for a virtual currency
+
+<br />
+
+A few ideas I'm still toying around with (and am too lazy to complete):
+- A customisable, easy-to-deploy social media platform for small communities
+
+<br />
 
 Thanks.
